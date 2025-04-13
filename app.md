@@ -1,10 +1,11 @@
-Hello guys my name is Mario Estima fullstack develeper
+Hey everyone! I'm Mario Estima, a fullstack developer.
 
-this is simple algorithm that simulate a bank system.
+Here's a simple algorithm that simulates a banking system.
+It runs directly in your terminal and is great for learning.
 
-i hope that you anjoy, have fun coding bay!!
+Hope you enjoy it — happy coding!
 
+-- App Features --
 
--- app features --
+Simple interface made to run in the terminal.
 
---simple interface made to run in terminal
